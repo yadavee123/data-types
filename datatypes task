@@ -1,0 +1,20 @@
+a=3
+b='a'
+c="hello"
+d=4.345
+e=True
+f=2+8j
+g=None
+h= ["apple", "banana", "cherry"]
+i= ("apple", "banana", "cherry")
+j = {"name" : "John", "age" : 36}
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))
+print(type(g))
+print(type(h))
+print(type(i))
+print(type(j))
